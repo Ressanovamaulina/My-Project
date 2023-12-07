@@ -1,0 +1,15 @@
+# MyProject
+Repository baru dari PC lokal
+rahasia.txt
+public_html/cron/
+public_html/uploads/
+public_html/gdrive/
+public_html/games/
+public_html/video/
+public_html/google*.html
+public_html/*.log
+public_html/.htaccess
+public_html/uploads.tar.gz
+rss/
+vendor/
+*.env
